@@ -1,7 +1,0 @@
-ssh pi-zero 
-node
-tmux list-sessions 
-tmux
-tmux list-sessions 
-tmux attach-session -t crryp
-tmux attach-session -t cryp
