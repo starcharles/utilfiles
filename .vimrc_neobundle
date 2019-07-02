@@ -1,0 +1,73 @@
+"---------------------------
+" Start Neobundle Settings.
+"---------------------------
+" bundleで管理するディレクトリを指定
+set runtimepath+=~/.vim/bundle/neobundle.vim/
+
+" Required:
+call neobundle#begin(expand('~/.vim/bundle/'))
+
+" neobundle自体をneobundleで管理
+NeoBundleFetch 'Shougo/neobundle.vim'
+
+NeoBundle 'scrooloose/nerdtree'  
+NeoBundle 'Townk/vim-autoclose'
+NeoBundle 'thinca/vim-quickrun'
+NeoBundle 'mattn/emmet-vim'
+NeoBundle 'scrooloose/syntastic'
+NeoBundle 'kchmck/vim-coffee-script'
+NeoBundle 'mattn/emmet-vim'
+NeoBundle 'ctrlpvim/ctrlp.vim'
+
+"ctags
+let g:auto_ctags = 1
+let g:auto_ctags_directory_list = ['.git', '.svn']
+set tags+=.svn/tags
+
+NeoBundle 'soramugi/auto-ctags.vim'
+
+"yaml
+"NeoBundle 'mrk21/yaml-vim'
+
+
+
+" コメントON/OFFを手軽に実行
+NeoBundle 'tomtom/tcomment_vim'
+
+" React
+NeoBundle 'pangloss/vim-javascript'
+NeoBundle 'mxw/vim-jsx'
+
+let g:jsx_ext_required = 0
+
+"自動補完
+"NeoBundle 'othree/vim-autocomplpop'
+" NeoBundle 'Shougo/neocomplete'
+" NeoBundle 'Shougo/neosnippet'
+" NeoBundle 'Shougo/neosnippet-snippets'
+" Ruby向けにendを自動挿入してくれる
+"NeoBundle 'tpope/vim-endwise'
+" インデントに色を付けて見やすくする
+"NeoBundle 'nathanaelkane/vim-indent-guides'
+"NeoBundle 'Shougo/neomru'
+"NeoBundle 'Shougo/unite'
+
+let g:syntastic_javascript_checker = "jshint" "JavaScriptのSyntaxチェックはjshintで
+let g:syntastic_check_on_open = 0 "ファイルオープン時にはチェックをしない
+let g:syntastic_check_on_save = 1 "ファイル保存時にはチェックを実施
+let g:syntastic_enable_signs=1
+let g:syntastic_auto_loc_list=2
+let g:user_emmet_leader_key='<c-a>'
+
+call neobundle#end()
+
+" Required:
+filetype plugin indent on
+
+" 未インストールのプラグインがある場合、インストールするかどうかを尋ねてくれるようにする設定
+" 毎回聞かれると邪魔な場合もあるので、この設定は任意です。
+NeoBundleCheck
+
+"-------------------------
+" End Neobundle Settings.
+"-------------------------

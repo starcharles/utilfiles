@@ -1,0 +1,448 @@
+tmux list-sessions 
+tmux 
+/Volumes/VirtualBox/VirtualBox_Uninstall.tool ; exit;
+touch hello.cpp
+ls
+g++ -o hello hello.cpp
+c++ -o hello hello.cpp 
+./hello 
+g++ -o hello hello.cpp
+mkdir prac1
+cd prac1/
+ls
+g++ -std=c++17 -Wall --pedantic-errors -o 出力ファイル名 入力ファイル名
+g++ -std=c++11 -Wall --pedantic-errors -o hello hello.cpp 
+./hello c
+vim compile.txt
+vim all.h
+ls
+cd ..
+ls
+g++ -std=c++11 -Wall --pedantic-errors -o array.cpp 
+ls
+g++ -std=c++11 -Wall --pedantic-errors -o array array.cpp 
+g++ -std=c++11 -Wall --pedantic-errors -o array array.cpp 
+g++ -std=c++11 -Wall --pedantic-errors -o array array.cpp 
+g++ -std=c++11 -Wall --pedantic-errors -o array array.cpp 
+g++ -std=c++11 -Wall --pedantic-errors -o array array.cpp 
+g++ -std=c++11 -Wall --pedantic-errors -o array array.cpp 
+g++ -std=c++11 -Wall --pedantic-errors -o array array.cpp && ./array 
+cd ../ezo
+cd ezoe/
+g++ -std=c++11 -Wall --pedantic-errors -x c++-header -o all.h.gch all.h
+g++ -std=c++11 -Wall --pedantic-errors -x c++-header -o all.h.gch all.h
+g++ -std=c++11 -Wall --pedantic-errors -x c++-header -o all.h.gch all.h
+g++ -std=c++17 -Wall --pedantic-errors -x c++-header -o all.h.gch all.h
+g++ -std=c++17 -Wall --pedantic-errors -x c++-header -o all.h.gch all.h
+ls
+g++ -std=c++17 -Wall --pedantic-errors -x c++-header -o all.h.gch all.h
+ls
+ls
+cd ..
+ls
+ls -l
+ls
+cd ezoe/
+ls
+g++ -std=c++17 -Wall --pedantic-errors -x c++-header -o all.h.gch all.h
+cd ..
+ls
+history
+g++ -std=c++11 -Wall --pedantic-errors -o array array.cpp && ./array 
+g++ -std=c++11 -Wall --pedantic-errors -o templateArray templateArray.cpp 
+g++ -std=c++11 -Wall --pedantic-errors -o templateArray templateArray.cpp 
+g++ -std=c++11 -Wall --pedantic-errors -o templateArray templateArray.cpp 
+g++ -std=c++11 -Wall --pedantic-errors -o templateArray templateArray.cpp 
+./templateArray 
+g++ -std=c++11 -Wall --pedantic-errors -o templateArray templateArray.cpp 
+g++ -std=c++11 -Wall --pedantic-errors -o templateArray templateArray.cpp 
+g++ -std=c++11 -Wall --pedantic-errors -o templateArray templateArray.cpp 
+g++ -std=c++11 -Wall --pedantic-errors -o templateArray templateArray.cpp 
+g++ -std=c++11 -Wall --pedantic-errors -o templateArray templateArray.cpp 
+./templateArray 
+cd ezoe/
+ls
+ g++ -std=c++17 -Wall --pedantic-errors -x c++-header -o all.h.gch all.h
+cd /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/
+ls
+mkdir bits
+sudo mkdir bits
+cd bits/
+wget /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/us
+wget https://gist.githubusercontent.com/eduarc/6022859/raw/3f81acf4e2288d9dea02bd8a7c7a2908bbaeebbe/stdc++.h
+sudo wget https://gist.githubusercontent.com/eduarc/6022859/raw/3f81acf4e2288d9dea02bd8a7c7a2908bbaeebbe/stdc++.h
+ls
+pwd
+cd ~
+cd Desktop/AdvC/ezoe/
+ g++ -std=c++17 -Wall --pedantic-errors -x c++-header -o all.h.gch all.h
+ g++ -std=c++17 -Wall --pedantic-errors -x c++-header -o all.h.gch all.h
+ g++ -std=c++17 -Wall --pedantic-errors -x c++-header -o all.h.gch all.h
+ g++ -std=c++17 -Wall --pedantic-errors -x c++-header -o all.h.gch all.h
+g++ -std=c++17 -Wall --pedantic-errors -include all.h -o program main.cpp
+g++ -std=c++17 -Wall --pedantic-errors -include all.h -o program hello
+g++ -std=c++17 -Wall --pedantic-errors -include all.h -o program hello.cpp 
+./program 
+cd make/
+touch source01 source02 source03
+vim Makefile
+make
+ls
+make
+vim source01 
+make
+make
+make
+make
+mkae
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make program2 
+make program2 
+make
+touch source01
+make
+make
+make
+make
+make
+make
+make
+make hi
+make
+make clean
+cd ../prac1/
+make
+make
+make
+make
+make
+make
+make clean
+make
+make
+make
+make
+make
+make
+make
+rm all.h.gch 
+make
+g++ -std=c++11 -Wall --pedantic-errors -x c++-header -o all.h.gch all.h
+tmux list-sessions 
+tmux
+man gcc
+less man gcc
+man gcc | less
+man gcc
+man g++
+npm run db:reset
+npm run db:reset
+npm run watch
+npm run watch
+cd Desktop/AdvC/
+ls
+cd prac1/
+ls
+man gcc
+cd Desktop/hacktbox/
+openvpn satons.ovpn 
+ionic serve
+ionic serve
+ionic serve
+ionic serve
+ionic serve
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+node onetime.js 
+ssh elab.cs.ttu.ee:9032
+open rdp://nasato:XrZSlRVpXR_I2pN9cf4@elab.cs.ttu.ee:9030
+open rdp://nasato:XrZSlRVpXR_I2pN9cf4@elab.cs.ttu.ee:9032
+open rdp://nasato:yCCbaLm5vy_4zUPwm3w@elab.cs.ttu.ee:9032
+open rdp://nasato:yCCbaLm5vy_4zUPwm3w@elab.cs.ttu.ee:9032
+open rdp://nasato:yCCbaLm5vy_4zUPwm3w@elab.cs.ttu.ee:9032
+open rdp://nasato:yCCbaLm5vy_4zUPwm3w@elab.cs.ttu.ee:9032
+tmux list-sessions 
+tmux attach-session -t 0
+whois docker.hackthebox.eu
+curl http://docker.hackthebox.eu/main/index.php:33531
+tmux 
+tmux list-sessions 
+tmux
+tmux list-sessions 
+tmux attach-session -t htb
+tmux list-sessions 
+tmux attach-session -t emwork 
+ls
+ionic serve
+tmux list-sessions 
+tmux attach-session -t gi
+tmux list-sessions 
+tmux attach-session -t ui
+tmux list-sessions 
+tmux attach-session -t gi
+node msgs.js 
+node msgs.js 
+node msgs.js 
+node msgs.js 
+node msgs.js 
+node msgs.js 
+node msgs.js 
+node msgs.js 
+node msgs.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec2/vigener.js 
+node lec2/vigener.js 
+node lec2/vigener.js 
+node lec3/many-time-pad.js 
+node lec2/vigener.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node -v
+node -v
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node
+node
+node lec3/many-time-pad2.js 
+node
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node
+node
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node
+node
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+node lec3/many-time-pad2.js 
+ls /
+npm run db:reset
+man gcc
+npm run watch
+git br
+git co aaa 
+git log
+cd thorgate/
+ls
+ls
+vim class1.py
+python class1.py 
+pytho -v
+python -v
+pyenv
+pyenv versions
+python class1.py 
+vim class1.py
+vim class1.py
+vim class2.py
+vim class1.py
+vim class2.py
+vim class-person.py
+wget http://docker.hackthebox.eu/index.php
+git st
+git add -A
+git cm -m "WIP"
+git br
+git co develop 
+ionic serve
+git br
+ls
+npm run start
+git br
+git st
+git add _A
+git add -A
+git br
+git cm -m "WIP"
+git br
+git co develop 
+python class1.py 
+python class1.py 
+python class1.py 
+python class1.py 
+python class1.py 
+python class2.py 
+python class-person.py 
+python class-person.py 
+python class-person.py 
+open rdp://nasato:yCCbaLm5vy_4zUPwm3w@elab.cs.ttu.ee:9005
+open rdp://nasato:yCCbaLm5vy_4zUPwm3w@elab.cs.ttu.ee:9005
+cd Desktop/
+vim hello.c
+gcc hello.c -o hello.c 
+vim hello.c
+gcc hello.c -o hello
+vim hello.c
+gcc hello.c -o hello
+./hello 
+gdb hello
+gcc -v
+brew install gdb
+gdb hello
+. ~/.bashrc
+ echo "set startup-with-shell off" >> ~/.gdbinit
+gdb hello
+brew cleanup
+vim /Users/ns/.bashrc
+. ~/.bashrc
+gdb hello
+codesign -vv `which gdb`
+tmux list-sessions 
+tmux attach-session -t ui
+man gcc
+git br
+npm run db:reset
+git br
+npm run start
+npm run start
+\
+git st
+\git br
+git br
+git br
+git co develop 
+ionic serve
+ionic serve
+git br
+git stash
+git br
+git co develop 
+git br
+npm run start

@@ -1,0 +1,29 @@
+ls
+cd .ssh/
+cd ..
+ls -l
+ls -la
+ls -la | grep ssh
+cd .ssh/
+ls
+ssh-keygen -t rsa -f raszero
+ls
+vim config
+scp raszero.pub pi-zero:.ssh/
+ssh pi-zero 
+ssh pi@192.168.0.36
+ssh pi@192.168.0.34
+ssh pi@192.168.0.34 -i id_rsa
+ssh pi@192.168.0.34 -i raszero
+vim config
+ssh pi-zero 
+cd ..
+cd Desktop/
+mkdir -p raspbian-sdk/{prebuilt,sysroot}
+ls
+cd raspbian-sdk/
+curl -L -O http://releases.llvm.org/6.0.0/clang+llvm-6.0.0-x86_64-apple-darwin.tar.xz
+tar -xzvf clang+llvm-6.0.0-x86_64-apple-darwin.tar.xz       -C prebuilt --strip-components=1
+ls
+ls prebuilt/
+pwd

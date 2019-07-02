@@ -1,0 +1,94 @@
+set nocompatible
+set backup
+set hidden
+set hlsearch incsearch
+set smartindent
+set ambiwidth=double
+set laststatus=2
+set modeline
+set modelines=5
+syntax on
+filetype off " make it on at the end
+
+if has('win32')
+  set encoding=utf-8
+  set termencoding=cp932
+endif
+
+" indent size
+autocmd FileType javascript setlocal tabstop=2 softtabstop=2 shiftwidth=2 expandtab
+autocmd FileType html setlocal tabstop=2 softtabstop=2 shiftwidth=2 expandtab
+autocmd FileType jade setlocal tabstop=2 softtabstop=2 shiftwidth=2 expandtab
+autocmd FileType css setlocal tabstop=2 softtabstop=2 shiftwidth=2 expandtab
+
+" disable arrow keys
+"inoremap <up> <nop>
+"inoremap <down> <nop>
+"inoremap <left> <nop>
+"inoremap <right> <nop>
+"noremap <up> <nop>
+"noremap <down> <nop>
+"noremap <left> <nop>
+"noremap <right> <nop>
+
+" the config directory
+let $HAJUKU_CONFIG_DIR=expand('<sfile>:p:h')
+
+" vim-unimpaired plugin
+set runtimepath+=$HAJUKU_CONFIG_DIR/vimbundle/vim-unimpaired/
+
+" unite plugin
+set runtimepath+=$HAJUKU_CONFIG_DIR/vimbundle/unite.vim/
+nnoremap ,b :Unite buffer<cr>
+nnoremap ,fu :Unite file<cr>
+
+" vimfiler plugin
+set runtimepath+=$HAJUKU_CONFIG_DIR/vimbundle/vimfiler.vim/
+let g:vimfiler_as_default_explorer=1
+nnoremap ,ft :VimFilerExplorer<cr>
+
+" lexima plugin
+set runtimepath+=$HAJUKU_CONFIG_DIR/vimbundle/lexima.vim/
+call lexima#add_rule({'at': '\%#.*[-0-9a-zA-Z_,:]', 'char': '(', 'input': '('})
+call lexima#add_rule({'at': '\%#.*[-0-9a-zA-Z_,:]', 'char': '{', 'input': '{'})
+call lexima#add_rule({'at': '\%#.*[-0-9a-zA-Z_,:]', 'char': '[', 'input': '['})
+call lexima#add_rule({'at': '\%#.*[-0-9a-zA-Z_,:]', 'char': '''', 'input': ''''})
+call lexima#add_rule({'at': '\%#.*[-0-9a-zA-Z_,:]', 'char': '"', 'input': '"'})
+call lexima#add_rule({'at': '\%#.*[-0-9a-zA-Z_,:]', 'char': '`', 'input': '`'})
+call lexima#add_rule({'at': '\%#\n\s*)', 'char': ')', 'input': ')', 'delete': ')'})
+call lexima#add_rule({'at': '\%#\n\s*}', 'char': '}', 'input': '}', 'delete': '}'})
+call lexima#add_rule({'at': '\%#\n\s*]', 'char': ']', 'input': ']', 'delete': ']'})
+
+" vim-less plugin
+set runtimepath+=$HAJUKU_CONFIG_DIR/vimbundle/vim-less/
+
+" vim-javascript-syntax plugin
+set runtimepath+=$HAJUKU_CONFIG_DIR/vimbundle/vim-javascript-syntax/
+
+" vim-jade plugin
+set runtimepath+=$HAJUKU_CONFIG_DIR/vimbundle/vim-jade/
+
+" vim-json plugin
+set runtimepath+=$HAJUKU_CONFIG_DIR/vimbundle/vim-json/
+let g:vim_json_syntax_conceal=0
+
+" syntastic plugin
+set runtimepath+=$HAJUKU_CONFIG_DIR/vimbundle/syntastic/
+let g:syntastic_always_populate_loc_list=1
+let g:syntastic_javascript_checkers=['jshint']
+let g:syntastic_javascript_jshint_exec='$HAJUKU_CONFIG_DIR/../node_modules/.bin/jshint'
+let g:syntastic_javascript_eslint_exec='$HAJUKU_CONFIG_DIR/../node_modules/.bin/eslint'
+
+" jsbeautify plugin
+set runtimepath+=$HAJUKU_CONFIG_DIR/vimbundle/vim-jsbeautify/
+let g:config_Beautifier={'js': {'indent_style': 'space', 'indent_size': 2, 'jslint_happy': 1}, 'css': {'indent_style': 'space', 'indent_size': 2}, 'html': {'indent_style': 'space', 'indent_size': 2}, 'json': {'indent_tyle': 'space', 'indent_size': 2}}
+autocmd FileType javascript nnoremap <buffer> ,j :call JsBeautify()<cr>
+autocmd FileType json nnoremap <buffer> ,j :call JsBeautify()<cr>
+autocmd FileType html nnoremap <buffer> ,j :call HtmlBeautify()<cr>
+autocmd FileType css nnoremap <buffer> ,j :call CSSBeautify()<cr>
+autocmd FileType javascript vnoremap <buffer> ,j :call RangeJsBeautify()<cr>
+autocmd FileType json vnoremap <buffer> ,j :call RangeJsBeautify()<cr>
+autocmd FileType html vnoremap <buffer> ,j :call RangeHtmlBeautify()<cr>
+autocmd FileType css vnoremap <buffer> ,j :call RangeCSSBeautify()<cr>
+
+filetype plugin indent on

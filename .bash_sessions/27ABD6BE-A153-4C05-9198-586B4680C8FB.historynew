@@ -1,0 +1,4 @@
+cp /System/Library/Frameworks/ApplicationServices.framework/Frameworks/CoreText.framework/Resources/DefaultFontFallbacks.plist ~/Desktop
+open -a Xcode.app ~/Desktop/DefaultFontFallbacks.plist
+cp /System/Library/Frameworks/ApplicationServices.framework/Frameworks/CoreText.framework/Resources/DefaultFontFallbacks.plist ~/DefaultFontFallbacks.plist.bak
+sudo mv ~/Desktop/DefaultFontFallbacks.plist /System/Library/Frameworks/ApplicationServices.framework/Frameworks/CoreText.framework/Resources/DefaultFontFallbacks.plist

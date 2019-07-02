@@ -1,0 +1,141 @@
+ssh pi-zero 
+node
+tmux list-sessions 
+tmux
+tmux list-sessions 
+tmux attach-session -t crryp
+tmux attach-session -t cryp
+make flash
+make
+make flash
+ls /dev/
+ls /dev/
+ls /dev/tty*
+ls /dev/tty*
+dmesg 
+sudo dmesg 
+sudo dmesg 
+sudo dmesg 
+sudo dmesg 
+sudo usermod -a -G dialout $USER
+sudo usermod -a -G dialout $USER
+sudo usermod -a -G dialout $USER
+vim /Users/ns/.profile
+vim /Users/ns/.bash_profile
+. /Users/ns/.bash_profile
+get_esp32 
+python -v
+tmux
+cd esp/hello_world/
+ls
+get_esp32 
+vim /Users/ns/.bash_profile
+vim /Users/ns/.bash_profile
+vi /Users/ns/.bash_profile
+vi /Users/ns/.bashrc
+less /Users/ns/.bashrc
+ls
+bash --login -x
+. /Users/ns/.bash_profile
+vim /Users/ns/.profile
+bash --logout -x
+bash --logout -h
+ls
+cd esp/
+. ~/.profile
+vim /Users/ns/.profile
+. ~/.profile
+source ~/.profile
+source ~/.profile
+which bash
+vim /Users/ns/.profile
+source ~/.profile
+ls
+dmesg 
+sudo dmesg 
+cd esp-idf
+git submodule update --init
+python -m pip install --user -r $IDF_PATH/requirements.txt
+python2.7 -m pip install --user -r $IDF_PATH/requirements.txt
+python2 -m pip install --user -r $IDF_PATH/requirements.txt
+pyenv
+pyenv versions
+pyenv versions global 2.7.9
+pyenv versions
+pyenv global 2.7.9
+python -m pip install --user -r $IDF_PATH/requirements.txt
+pyenv versions
+pyenv global 3.4.3
+python -v
+python -m pip install --user -r $IDF_PATH/requirements.txt
+pip install --upgrade pip
+python -m pip install --user -r $IDF_PATH/requirements.txt
+ls /dev/cu.Bluetooth-Incoming-Port 
+ls /dev/
+make menuconfig
+cd ~/esp/hello_world
+make menuconfig
+make flash
+make flash
+make clean
+make flash
+ls
+cd ..
+ls
+rm -rf esp-idf/ hello_world/ xtensa-esp32-elf xtensa-esp32-elf
+ks
+ks
+ls
+git clone --recursive https://github.com/espressif/esp-idf.git
+ls /dev/tty*
+ls /dev/cu.Bluetooth-Incoming-Port 
+make
+ls
+cd esp-idf/
+ls
+cd ..
+ls
+cd ~/esp
+cp -r $IDF_PATH/examples/get-started/hello_world .
+ls
+cd hello_world/
+make menuconfig
+ls /dev/cu.Bluetooth-Incoming-Port 
+make menuconfig
+make flash
+vim /Users/ns/.bash_profile
+. /Users/ns/.bash_profile
+make flash
+ls
+cd ..
+ls
+vim /Users/ns/.bash_profile
+tar -xzf xtensa-esp32-elf-osx-1.22.0-80-g6c4433a-5.2.0.tar.gz 
+make flash
+cd hello_world/
+make flash
+make
+git submodule update --init
+ls
+cd ..
+cd esp-idf/
+git submodule update --init
+cd ..
+mv hello_world/ hello_world.org/
+cd ~/esp
+cp -r $IDF_PATH/examples/get-started/hello_world .
+ls
+cd hello_world
+make
+ls /dev/cu.Bluetooth-Incoming-Port 
+make
+ls
+printenv IDF_PATH
+make menuconfig
+make flash
+make clean
+make
+make flash
+ls /dev/tty*
+make menuconfig
+make

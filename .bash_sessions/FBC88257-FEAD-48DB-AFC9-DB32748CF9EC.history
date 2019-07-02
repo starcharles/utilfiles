@@ -1,0 +1,523 @@
+make run
+make run
+make run
+make run
+make run
+make run
+make run
+make run
+make run
+make run
+make run
+make run
+make run
+make
+make Data.cpp 
+ls
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+clear
+clear
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make
+make
+make
+make run
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+make Data.o 
+git st
+make Data.o 
+git st
+git add -A
+git cm -m "WIP: impl Data.cpp"
+git st
+git st
+git add -A
+git cm -m "WIP: impl Data.cpp"
+git st
+git log
+git rebasee -i e2953d4f0f1669c7b5241790359d29eddf26f3df
+git rebase -i e2953d4f0f1669c7b5241790359d29eddf26f3df
+git br
+git push origin feature/impl-Data 
+make test
+make clean 
+make
+make
+make
+make test
+g++ -std=c++11 -Wall --pedantic-errors -o test test/test.cpp Date.o Item.o Data.o
+g++ -std=c++11 -Wall --pedantic-errors -o test ./test/test.cpp Date.o Item.o Data.o
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+git st
+git cm -m "add test dir"
+git st
+git add test/
+git cm -m "add test dir"
+git st
+git add -A
+git cm -m "WIP"
+git log
+git push origin feature/impl-Data 
+make
+make
+make
+make
+make
+make
+make
+make
+make
+git st
+git add Data.cpp
+git cm -m "aa"
+git log
+git rebase -i  e2953d4f0f1669c7b5241790359d29eddf26f3df
+git br
+git push -f origin feature/impl-Data 
+make
+make
+git st
+git add -A
+git cm -m "capitalized"
+git br
+git br
+make
+git st
+git add .
+git st
+git cm -m "aaa"
+git br
+git log
+git rebase -i 643706a2b0b96d5cbac2c20a8f200880bce957fd
+git push origin feature/impl-Data 
+git flow feature finish impl-Data 
+git st
+git add Date.cpp
+git st
+git cm -m "resolve conflict"
+git log
+git br
+git br -D impl-Data 
+git flow feature start add-tests
+git push origin develop 
+tmux list-
+tmux list-sessions 
+tmux kill-session -t0
+cd  tmux lisse
+tmux list-sessions 
+tmux attach-session -t cryp
+tmux
+tmux list-sessions 
+tmux attach-session -t cpp
+tmux delete-buffer 0
+tmux delete-buffer -b 0
+tmux attach-session -t gi
+. ~/.bashrc
+cd lec5-3DES/
+ls
+ts-node encode/index.ts 
+ts-node encode/index.ts 
+ts-node encode/index.ts 
+ts-node encode/index.ts 
+node
+git st
+git add lec5-3DES/
+git st
+git cm -m "WIP"
+git br
+git co impl-des 
+git merge master 
+git stash
+git co master 
+git br
+git st
+git git br
+git br
+git add -A
+git cm -m "WIP
+"
+git br
+git merge master 
+git br
+git co master 
+git br -D impl-des 
+git co -b DES
+git br
+git co master 
+git co -b rsa
+git push origin --all
+git br
+git st
+git add README.md
+git cm -m "update readme"
+mkdir rsa
+cd rsa/
+npm i
+ts-node enc.ts 
+ts-node enc.ts 
+ts-node enc.ts 
+ts-node enc.ts 
+ts-node enc.ts 
+ts-node enc.ts 
+ts-node enc.ts 
+ts-node enc.ts 
+ts-node enc.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+npm i -S bignumber.js
+npm i -D @types/bignumber.js
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+git st
+cd ..
+git st
+git add .gitignore
+git st
+git add -A
+git st
+git add rsa/.gitignore
+git st
+git rm --cached rsa/node_modules/
+git rm -r --cached rsa/node_modules/
+git st
+git cm -m "WIP"
+git st
+ls
+ls lec2/
+ls lec2/
+cd rsa/
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+ts-node index.ts 
+git st
+git add index.ts
+git br
+git st
+git cm -m 
+git cm -m "RSA"
+git br
+git st
+git co master 
+git rebase rsa 
+git log
+git rebase -i 100d15cdeb7bcca2336ec20ac24300520144099b
+git br
+git push origin master 
+git st
+git add -A
+git cm -m "modify .gitignore"
+git br
+cd ../assign1/
+npm i
+npm i
+cd ../lec5-3DES/
+ts-node enc.ts 
+ts-node enc.ts 
+ts-node enc.ts 
+ts-node enc.ts 
+ts-node enc.ts 
+ts-node enc.ts 
+node
+ls
+ts-node enc.ts 
+ts-node enc.ts 
+ts-node enc.ts 
+ts-node dec.ts 
+ts-node dec.ts 
+ts-node dec.ts 
+ts-node dec.ts 
+ts-node dec.ts 
+cd lec5-3DES/
+ts-node dec.ts 
+ts-node dec.ts 
+cd lec5-3DES/
+ts-node dec.ts 
+cd lec5-3DES/
+tmux list-sessions 
+tmux kill-session -t 0
+tmux kill-session -t 1
+tmux kill-session -t 8
+tmux attach-session -t cryp
+cd Desktop/AcaciaPlus-v2.3/
+ls
+ll
+cd tools/
+ls
+ll
+ls
+./Lily-AC/
+ls Lily-AC/
+cd ..
+cd Desktop/
+AcaciaPlus-v2.3/
+ls
+cd AcaciaPlus-v2.3/
+ls
+less README 
+ls
+make
+ls
+less makefile 
+make install
+ls
+ls lib/
+less makefile 
+less makefile 
+cd manual/
+ls
+cd ..
+ls
+python acacia_plus.py 
+python acacia_plus.py --ltl examples/demo-lily/demo-v1.ltl --part examples/demo-lily/demo-v1.part 
+cd assign1/
+ts-node index.ts 
+ts-node index.ts 
+git st
+git br
+git stash
+git st
+npm i
+git st
+git co -b assign1
+git add -A
+git cm -m "assign1"
+git br
+git st
+git add ../rsa/config.ts
+git cm -m "update"
+git br
+git st
+ts-node write.ts 
+git st
+git br
+git add config.ts
+git cm -m "WIP"
+git co master 
+git br
+git st
+git co assign1 
+git br
+git st
+git cm -m "add png"
+ts-node write.ts 
+ts-node write.ts 
+ts-node write.ts 
+ts-node write.ts 
+ts-node write.ts 
+ts-node read.ts 
+ts-node read.ts 
+ts-node read.ts 
+ts-node write.ts 
+ts-node read.ts 
+ts-node read.ts 
+ts-node write.ts 
+tmux 
+tmux list-sessions 
+tmux attach-session -t 0
+ssh pi@192.168.0.36
+ping 192.168.0.36
+ssh pi@192.168.0.36
+ssh pi@192.168.0.36
+ping 192.168.0.36
+ssh pi@192.168.0.36
+ssh pi@192.168.0.36
+ping 192.168.0.36
+ssh pi@192.168.0.36
+ssh pi@192.168.0.36
+ping 192.168.0.36
+ssh pi@192.168.0.36
+ssh pi@192.168.0.36
+ping 192.168.0.36
+ssh pi@192.168.0.36
+ssh pi@192.168.0.36
+ping 192.168.0.36
+ssh pi@192.168.0.36
+ssh pi@192.168.0.36
+ping 192.168.0.36
+ssh pi@192.168.0.36
+ssh pi@192.168.0.36
+ping 192.168.0.36
+ssh pi@192.168.0.36
+ssh pi@192.168.0.36
+ping 192.168.0.36
+ssh pi@192.168.0.36
+ssh pi@192.168.0.36
+ping 192.168.0.36
+ssh pi@192.168.0.36
+ssh pi@192.168.0.36
+ping 192.168.0.36
+ssh pi@192.168.0.36
+ssh pi@192.168.0.36
+ping 192.168.0.36
+ssh pi@192.168.0.36
+ssh pi@192.168.0.36
+ping 192.168.0.36
+ssh pi@192.168.0.36
+ssh pi@192.168.0.36
+ping 192.168.0.36
+ssh pi@192.168.0.36
+ssh pi@192.168.0.36
+ping 192.168.0.36
+ssh pi@192.168.0.36
+ssh pi@192.168.0.36
+ping 192.168.0.36
+ssh pi@192.168.0.36
+ssh pi@192.168.0.36
+ping 192.168.0.36
+ssh pi@192.168.0.36
+cd Desktop/
+cd AcaciaPlus-v2.3
+ls
+less makefile 
+make
+less makefile 
+make install
+less makefile 
+cd tools/ltl2ba-1.1/
+make
+make install
+vim Makefile 
+make ltl2ba
+cd ..
+cd ..
+cd ..
+easy_install python-graph-core
+easy_install pygraphviz
+git clone git@github.com:gaperez64/acacia4aiger.git
+cd acacia4aiger/
+ls
+git pull && git submodule init && git submodule update
+ls
+./build.sh 
+opam install ocamlbuild
+java --version
+javac --version
+javac -v
+javac
+java
+java -version
+cd Desktop/
+mkdir raspberry
+cd raspberry/
+git clone https://github.com/mitchallen/pi-hello-cross-compile.git --depth=1 hello
+ls
+vim hello/
+docker run -it -v ./hello:/build mitchallen/pi-cross-compile
+docker run -it -v ~/Desktop/hello:/build mitchallen/pi-cross-compile
+docker run -it -v ~/Desktop/raspberry/hello:/build mitchallen/pi-cross-compile
+ls hello/
+ls hello/docker ps
+docker ls
+ls
+cd hello/
+ls
+vim Makefile 
+docker run -it -v ~/Desktop/raspberry/hello:/build mitchallen/pi-cross-compile
+ls
+ls bin/
+./bin/hello 
+bash ./bin/hello
+file ./bin/hello
+scp ./bin/hello pi-zero:~

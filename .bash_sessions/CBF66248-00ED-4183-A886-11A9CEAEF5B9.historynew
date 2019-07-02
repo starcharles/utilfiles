@@ -1,0 +1,4 @@
+sudo du -sh /*
+sudo du -sh /*
+sudo du -sh /
+sudo du -sh /cores/

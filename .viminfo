@@ -1,0 +1,1727 @@
+# この viminfo ファイルは Vim 8.1 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最後の 検索パターン:
+~MSle0~/Lexer
+
+# 最後の Substitute 検索パターン:
+~MSle0&Admin::
+
+# 最後に置換された文字列:
+$
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q
+|2,0,1562100055,,"q"
+:w
+|2,0,1561841020,,"w"
+:wq
+|2,0,1561838722,,"wq"
+:q!
+|2,0,1561835110,,"q!"
+:set paste
+|2,0,1561834987,,"set paste"
+:!
+|2,0,1557555671,,"!"
+:tabe /Users/ns/.bash_profile
+|2,0,1557546134,,"tabe /Users/ns/.bash_profile"
+:1
+|2,0,1557059268,,"1"
+::wq
+|2,0,1556964261,,":wq"
+:set nonumber
+|2,0,1556721497,,"set nonumber"
+:wq\
+|2,0,1550016949,,"wq\\"
+:a
+|2,0,1546749301,,"a"
+:'<,'>q
+|2,0,1543514420,,"'<,'>q"
+:NERDTree
+|2,0,1541743771,,"NERDTree"
+:qa
+|2,0,1541743752,,"qa"
+:tabnew a.ml
+|2,0,1541743536,,"tabnew a.ml"
+:new a.ml
+|2,0,1541743524,,"new a.ml"
+:new
+|2,0,1541743512,,"new"
+:tab
+|2,0,1541743195,,"tab"
+:npm run build
+|2,0,1541742803,,"npm run build"
+:NERDTree;q
+|2,0,1539579249,,"NERDTree;q"
+:ew
+|2,0,1538633877,,"ew"
+:set nunumber
+|2,0,1538469757,,"set nunumber"
+:.!
+|2,0,1538455711,,".!"
+:;wq
+|2,0,1537410202,,";wq"
+:wq!
+|2,0,1536833931,,"wq!"
+:/ERROR
+|2,0,1536828961,,"/ERROR"
+:ww
+|2,0,1536819850,,"ww"
+:w!
+|2,0,1536629047,,"w!"
+:tabnew
+|2,0,1520131362,,"tabnew"
+:set  paste
+|2,0,1518681403,,"set  paste"
+:qq
+|2,0,1510841976,,"qq"
+:w1
+|2,0,1508925114,,"w1"
+:q±
+|2,0,1508835914,,"q±"
+:qqa
+|2,0,1507710520,,"qqa"
+:qa!
+|2,0,1507277347,,"qa!"
+:q`1
+|2,0,1506505044,,"q`1"
+:s
+|2,0,1506497966,,"s"
+:set no-number
+|2,0,1502281596,,"set no-number"
+:set pastw
+|2,0,1502011516,,"set pastw"
+:tabnew .env
+|2,0,1500475257,,"tabnew .env"
+:w]
+|2,0,1498139395,,"w]"
+:[jkkfkji
+|2,0,1493458337,,"[jkkfkji"
+::kqq
+|2,0,1492273346,,":kqq"
+:'<,'>
+|2,0,1491977851,,"'<,'>"
+:wa
+|2,0,1489779477,,"wa"
+:NeoBundleCheckUpdate
+|2,0,1489778938,,"NeoBundleCheckUpdate"
+:NeoBundle
+|2,0,1489778935,,"NeoBundle"
+:Ctags -R
+|2,0,1489559829,,"Ctags -R"
+:Ctags -E
+|2,0,1489559821,,"Ctags -E"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+?/Lexer
+|2,1,1539579688,47,"Lexer"
+?/debug-code
+|2,1,1539581174,47,"debug-code"
+?/min-caml
+|2,1,1539581142,47,"min-caml"
+?/xch
+|2,1,1539243023,47,"xch"
+?/UP
+|2,1,1538614584,47,"UP"
+?/gdb
+|2,1,1538558858,47,"gdb"
+?/ulib
+|2,1,1538277926,47,"ulib"
+?/qemu
+|2,1,1538277627,47,"qemu"
+?/CFL
+|2,1,1538275330,47,"CFL"
+?/PREFIX
+|2,1,1538274932,47,"PREFIX"
+?/all-target-libgcc
+|2,1,1538059871,47,"all-target-libgcc"
+?/headers
+|2,1,1538058571,47,"headers"
+? ERROR
+|2,1,1536828961,,"ERROR"
+?/ERROR
+|2,1,1536828946,47,"ERROR"
+?/yylex
+|2,1,1526961046,47,"yylex"
+?/localhost
+|2,1,1521390333,47,"localhost"
+?/SAN
+|2,1,1521390324,47,"SAN"
+?/CXX
+|2,1,1516781922,47,"CXX"
+?/java
+|2,1,1508837348,47,"java"
+?/exc
+|2,1,1505882807,47,"exc"
+? \<api\>
+|2,1,1502887163,,"\\<api\\>"
+?/binaryTo
+|2,1,1502119463,47,"binaryTo"
+? '
+|2,1,1500796504,,"'"
+?/bett
+|2,1,1500624639,47,"bett"
+?/host
+|2,1,1500358591,47,"host"
+?/other
+|2,1,1500346913,47,"other"
+?/private
+|2,1,1500346879,47,"private"
+?/php
+|2,1,1500346838,47,"php"
+?/qqwqLoadModu
+|2,1,1500346828,47,"qqwqLoadModu"
+?/LoadModu
+|2,1,1500346785,47,"LoadModu"
+?/cnf
+|2,1,1497874196,47,"cnf"
+?/#Cus
+|2,1,1492508308,47,"#Cus"
+? \<hift\>
+|2,1,1490090461,,"\\<hift\\>"
+? \<set\>
+|2,1,1490086864,,"\\<set\\>"
+?/rack
+|2,1,1488702846,47,"rack"
+?/unicorn
+|2,1,1488702146,47,"unicorn"
+?/lib
+|2,1,1486558417,47,"lib"
+?/require
+|2,1,0,47,"require"
+?/pri;q
+|2,1,0,47,"pri;q"
+?/heroku
+|2,1,0,47,"heroku"
+? \<echo\>
+|2,1,0,,"\\<echo\\>"
+?/Document
+|2,1,0,47,"Document"
+?/Options
+|2,1,0,47,"Options"
+?/go
+|2,1,0,47,"go"
+?// tutorial2.js
+|2,1,0,47,"/ tutorial2.js"
+?// tutorial1.js
+|2,1,0,47,"/ tutorial1.js"
+?/spring
+|2,1,0,47,"spring"
+?/VM
+|2,1,0,47,"VM"
+? Admin::
+|2,1,0,,"Admin::"
+?/jp
+|2,1,0,47,"jp"
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+@/Users/ns/Desktop/bucklescript/a.ml
+|2,3,1541743749,,"/Users/ns/Desktop/bucklescript/a.ml"
+@/Users/ns/Desktop/bucklescript/src/a.ml
+|2,3,1541743701,,"/Users/ns/Desktop/bucklescript/src/a.ml"
+@/Users/ns/Desktop/gs-rest-service/initial/src/main/java/hello/GreetingController.java
+|2,3,1507710486,,"/Users/ns/Desktop/gs-rest-service/initial/src/main/java/hello/GreetingController.java"
+@/Users/ns/Desktop/gs-rest-service/initial/src/main/java/hello/Greeting.java
+|2,3,1507710397,,"/Users/ns/Desktop/gs-rest-service/initial/src/main/java/hello/Greeting.java"
+@/Users/ns/development/bitcoin/tx2.txt
+|2,3,1502886432,,"/Users/ns/development/bitcoin/tx2.txt"
+@/Users/ns/development/bitcoin/README.md
+|2,3,1501262808,,"/Users/ns/development/bitcoin/README.md"
+@/Users/ns/development/bitcoin/.gitignore
+|2,3,1501262468,,"/Users/ns/development/bitcoin/.gitignore"
+@/Users/ns/development/bitcoin/bitcoin-ruby/.gitignore
+|2,3,1501262441,,"/Users/ns/development/bitcoin/bitcoin-ruby/.gitignore"
+@/Users/ns/development/bitcoin/.env
+|2,3,1500475241,,"/Users/ns/development/bitcoin/.env"
+@/Users/ns/development/bosatter/.dockerignore
+|2,3,1489780829,,"/Users/ns/development/bosatter/.dockerignore"
+@/Users/ns/development/go-practice/prac1/animals/animals_test.go
+|2,3,1489143803,,"/Users/ns/development/go-practice/prac1/animals/animals_test.go"
+@/Users/ns/development/go-practice/prac1/animals/animals.go
+|2,3,1489143582,,"/Users/ns/development/go-practice/prac1/animals/animals.go"
+@/Users/ns/development/go-practice/prac1/animals/elephant.go
+|2,3,1489143558,,"/Users/ns/development/go-practice/prac1/animals/elephant.go"
+@/Users/ns/development/go-practice/prac1/main.go
+|2,3,1489143465,,"/Users/ns/development/go-practice/prac1/main.go"
+@/Users/ns/development/go-practice/prac1/
+|2,3,1489143454,,"/Users/ns/development/go-practice/prac1/"
+@/Users/ns/Desktop/test_gem/bin/run_test_gem
+|2,3,1487317600,,"/Users/ns/Desktop/test_gem/bin/run_test_gem"
+@/Users/ns/Desktop/logo-server/models/Logo.js
+|2,3,0,,"/Users/ns/Desktop/logo-server/models/Logo.js"
+@/Users/ns/Desktop/logo-server/models/
+|2,3,0,,"/Users/ns/Desktop/logo-server/models/"
+@/Users/ns/meteor/simple-todos/import/ui/Task.jsx
+|2,3,0,,"/Users/ns/meteor/simple-todos/import/ui/Task.jsx"
+@/Users/ns/meteor/simple-todos/import/ui/App.jsx
+|2,3,0,,"/Users/ns/meteor/simple-todos/import/ui/App.jsx"
+@/Users/ns/meteor/simple-todos/import/ui/
+|2,3,0,,"/Users/ns/meteor/simple-todos/import/ui/"
+@/Users/ns/meteor/simple-todos/import/
+|2,3,0,,"/Users/ns/meteor/simple-todos/import/"
+@yes
+|2,3,0,,"yes"
+@/Users/ns/redux-lesson/assets/
+|2,3,0,,"/Users/ns/redux-lesson/assets/"
+@/Users/ns/redux-lesson/app/assets/
+|2,3,0,,"/Users/ns/redux-lesson/app/assets/"
+@/Users/ns/redux-lesson/index.html
+|2,3,0,,"/Users/ns/redux-lesson/index.html"
+@/Users/ns/redux-lesson/.babelrc
+|2,3,0,,"/Users/ns/redux-lesson/.babelrc"
+@/Users/ns/webpack-lesson/app/entry.js
+|2,3,0,,"/Users/ns/webpack-lesson/app/entry.js"
+@/Users/ns/webpack-lesson/
+|2,3,0,,"/Users/ns/webpack-lesson/"
+@/Users/ns/webpack-lesson/app/
+|2,3,0,,"/Users/ns/webpack-lesson/app/"
+@/Users/ns/webpack-lesson/assets/app/
+|2,3,0,,"/Users/ns/webpack-lesson/assets/app/"
+@/Users/ns/webpack-lesson/package.json
+|2,3,0,,"/Users/ns/webpack-lesson/package.json"
+@/Users/ns/webpack-lesson/build/index.html
+|2,3,0,,"/Users/ns/webpack-lesson/build/index.html"
+@/Users/ns/webpack-lesson/build/
+|2,3,0,,"/Users/ns/webpack-lesson/build/"
+@/Users/ns/webpack-lesson/assets/build/
+|2,3,0,,"/Users/ns/webpack-lesson/assets/build/"
+@/Users/ns/webpack-lesson/assets/
+|2,3,0,,"/Users/ns/webpack-lesson/assets/"
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""0	CHAR	0
+	=white,
+|3,1,0,0,1,0,1561841000,"=white,"
+"1	LINE	0
+	set-option -g pane-border-fg colour023
+|3,0,1,1,1,0,1561838691,"set-option -g pane-border-fg colour023"
+"2	BLOCK	0
+	#
+	#
+	#
+	#
+	#
+|3,0,2,2,5,0,1561835256,"#","#","#","#","#"
+"3	LINE	0
+		} ]
+|3,0,3,1,1,0,1561834898,"	} ]"
+"4	LINE	0
+	#
+|3,0,4,1,1,0,1561834788,"#"
+"5	LINE	0
+	#set -g status-position bottom
+|3,0,5,1,1,0,1561834698,"#set -g status-position bottom"
+"6	LINE	0
+	spell imple reflection,pickpocket
+|3,0,6,1,1,0,1561540204,"spell imple reflection,pickpocket"
+"7	LINE	0
+	spell imple reflection,pickpocket
+|3,0,7,1,1,0,1561539622,"spell imple reflection,pickpocket"
+"8	LINE	0
+	pick 1bf4504 spell imple reflection,pickpocket
+|3,0,8,1,1,0,1561539445,"pick 1bf4504 spell imple reflection,pickpocket"
+"9	LINE	0
+	
+|3,0,9,1,1,0,1561537997,""
+"a	CHAR	0
+	�kb
+|3,0,10,0,1,0,0,"�kb"
+"i	CHAR	0
+	ii�kb�kbkkqqjj:qnnn;
+|3,0,18,0,1,0,0,"ii�kb�kbkkqqjj:q\n\n\n;"
+"j	CHAR	0
+	kkj;;
+|3,0,19,0,1,0,1502886956,"kkj;;"
+"q	CHAR	0
+	
+|3,0,26,0,1,0,1557555676,""
+"s	CHAR	0
+	jjkkx
+|3,0,28,0,1,0,0,"jjkkx"
+"u	CHAR	0
+	erySelector('#test')uhllllllllfhidocument.querySelector('#test')lcxxxx:wx:wkjjkhlha):wjk
+|3,0,30,0,1,0,0,"erySelector('#test')uhllllllllfhidocument.querySelector('#test')lcxxxx:wx:wkjjkhlha):wjk"
+"-	CHAR	0
+	=
+|3,0,36,0,1,0,1561841005,"="
+
+# ファイルマーク:
+'0  1  0  /usr/local/bin/tmux-pane-border
+|4,48,1,0,1562100055,"/usr/local/bin/tmux-pane-border"
+'1  1  0  /usr/local/bin/tmux-pane-border
+|4,49,1,0,1562026105,"/usr/local/bin/tmux-pane-border"
+'2  1  0  /usr/local/bin/tmux-pane-border
+|4,50,1,0,1562025894,"/usr/local/bin/tmux-pane-border"
+'3  1  0  /usr/local/bin/tmux-pane-border
+|4,51,1,0,1562025867,"/usr/local/bin/tmux-pane-border"
+'4  1  0  /usr/local/bin/tmux-pane-border
+|4,52,1,0,1562025867,"/usr/local/bin/tmux-pane-border"
+'5  1  0  /usr/local/bin/tmux-pane-border
+|4,53,1,0,1562025785,"/usr/local/bin/tmux-pane-border"
+'6  1  0  /usr/local/bin/tmux-pane-border
+|4,54,1,0,1562025785,"/usr/local/bin/tmux-pane-border"
+'7  1  0  /usr/local/bin/tmux-pane-border
+|4,55,1,0,1562025785,"/usr/local/bin/tmux-pane-border"
+'8  1  0  /usr/local/bin/tmux-pane-border
+|4,56,1,0,1562025785,"/usr/local/bin/tmux-pane-border"
+'9  1  0  /usr/local/bin/tmux-pane-border
+|4,57,1,0,1562025735,"/usr/local/bin/tmux-pane-border"
+
+# ジャンプリスト (新しいものが先):
+-'  1  0  /usr/local/bin/tmux-pane-border
+|4,39,1,0,1562100055,"/usr/local/bin/tmux-pane-border"
+-'  1  0  /usr/local/bin/tmux-pane-border
+|4,39,1,0,1562026105,"/usr/local/bin/tmux-pane-border"
+-'  1  0  /usr/local/bin/tmux-pane-border
+|4,39,1,0,1562025894,"/usr/local/bin/tmux-pane-border"
+-'  1  0  /usr/local/bin/tmux-pane-border
+|4,39,1,0,1562025867,"/usr/local/bin/tmux-pane-border"
+-'  1  0  /usr/local/bin/tmux-pane-border
+|4,39,1,0,1562025785,"/usr/local/bin/tmux-pane-border"
+-'  1  0  /usr/local/bin/tmux-pane-border
+|4,39,1,0,1562025735,"/usr/local/bin/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  2  0  ~/tmux-pane-border
+|4,39,2,0,1562025719,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  ~/tmux-pane-border
+|4,39,1,0,1562025716,"~/tmux-pane-border"
+-'  1  0  /usr/local/bin/tmux-pane-border
+|4,39,1,0,1562025712,"/usr/local/bin/tmux-pane-border"
+-'  1  0  /usr/local/bin/tmux-pane-border
+|4,39,1,0,1562025712,"/usr/local/bin/tmux-pane-border"
+-'  11  51  /usr/local/bin/tmux-pane-border
+|4,39,11,51,1562025207,"/usr/local/bin/tmux-pane-border"
+-'  11  51  /usr/local/bin/tmux-pane-border
+|4,39,11,51,1562025207,"/usr/local/bin/tmux-pane-border"
+-'  11  51  /usr/local/bin/tmux-pane-border
+|4,39,11,51,1562025207,"/usr/local/bin/tmux-pane-border"
+-'  11  51  /usr/local/bin/tmux-pane-border
+|4,39,11,51,1562025207,"/usr/local/bin/tmux-pane-border"
+-'  11  51  /usr/local/bin/tmux-pane-border
+|4,39,11,51,1562025207,"/usr/local/bin/tmux-pane-border"
+-'  11  51  /usr/local/bin/tmux-pane-border
+|4,39,11,51,1562025207,"/usr/local/bin/tmux-pane-border"
+-'  11  51  /usr/local/bin/tmux-pane-border
+|4,39,11,51,1562025207,"/usr/local/bin/tmux-pane-border"
+-'  11  51  /usr/local/bin/tmux-pane-border
+|4,39,11,51,1562025207,"/usr/local/bin/tmux-pane-border"
+-'  11  51  /usr/local/bin/tmux-pane-border
+|4,39,11,51,1562025207,"/usr/local/bin/tmux-pane-border"
+-'  12  5  /usr/local/bin/tmux-pane-border
+|4,39,12,5,1561840970,"/usr/local/bin/tmux-pane-border"
+-'  12  5  /usr/local/bin/tmux-pane-border
+|4,39,12,5,1561840970,"/usr/local/bin/tmux-pane-border"
+-'  12  5  /usr/local/bin/tmux-pane-border
+|4,39,12,5,1561840970,"/usr/local/bin/tmux-pane-border"
+-'  12  5  /usr/local/bin/tmux-pane-border
+|4,39,12,5,1561840970,"/usr/local/bin/tmux-pane-border"
+-'  12  5  /usr/local/bin/tmux-pane-border
+|4,39,12,5,1561840970,"/usr/local/bin/tmux-pane-border"
+-'  12  5  /usr/local/bin/tmux-pane-border
+|4,39,12,5,1561840970,"/usr/local/bin/tmux-pane-border"
+-'  12  5  /usr/local/bin/tmux-pane-border
+|4,39,12,5,1561840970,"/usr/local/bin/tmux-pane-border"
+-'  12  5  /usr/local/bin/tmux-pane-border
+|4,39,12,5,1561840970,"/usr/local/bin/tmux-pane-border"
+-'  12  5  /usr/local/bin/tmux-pane-border
+|4,39,12,5,1561840970,"/usr/local/bin/tmux-pane-border"
+-'  3  0  ~/.tmux.conf
+|4,39,3,0,1561840723,"~/.tmux.conf"
+-'  3  0  ~/.tmux.conf
+|4,39,3,0,1561840723,"~/.tmux.conf"
+-'  3  0  ~/.tmux.conf
+|4,39,3,0,1561840723,"~/.tmux.conf"
+-'  3  0  ~/.tmux.conf
+|4,39,3,0,1561840723,"~/.tmux.conf"
+-'  3  0  ~/.tmux.conf
+|4,39,3,0,1561840723,"~/.tmux.conf"
+-'  3  0  ~/.tmux.conf
+|4,39,3,0,1561840723,"~/.tmux.conf"
+-'  3  0  ~/.tmux.conf
+|4,39,3,0,1561840723,"~/.tmux.conf"
+-'  3  0  ~/.tmux.conf
+|4,39,3,0,1561840723,"~/.tmux.conf"
+-'  3  0  ~/.tmux.conf
+|4,39,3,0,1561840723,"~/.tmux.conf"
+-'  3  0  ~/.tmux.conf
+|4,39,3,0,1561840723,"~/.tmux.conf"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/tmux-pane-border
+	*	1562025718	0
+	"	2	0
+	^	1	11
+	.	1	10
+	+	21	0
+	+	1	10
+
+> ~/.tmux.conf
+	*	1561840711	0
+	"	3	0
+	^	25	10
+	.	27	0
+	+	62	48
+	+	20	0
+	+	32	26
+	+	32	0
+	+	20	19
+	+	20	0
+	+	32	0
+	+	20	0
+	+	29	0
+	+	32	0
+	+	62	47
+	+	62	0
+	+	62	1
+	+	61	0
+	+	62	0
+	+	61	0
+	+	32	0
+	+	62	0
+	+	32	0
+	+	58	0
+	+	61	0
+	+	62	0
+	+	20	0
+	+	6	22
+	+	6	0
+	+	17	0
+	+	20	0
+	+	32	0
+	+	42	22
+	+	24	0
+	+	24	25
+	+	26	0
+	+	26	96
+	+	26	98
+	+	27	35
+	+	24	0
+	+	25	3
+	+	26	3
+	+	27	3
+	+	26	0
+	+	24	28
+	+	28	0
+	+	29	0
+	+	25	9
+	+	26	0
+	+	27	0
+
+> /usr/local/bin/tmux-pane-border
+	*	1561840570	0
+	"	1	0
+	^	14	65
+	.	15	0
+	+	11	51
+	+	11	52
+	+	14	52
+	+	11	61
+	+	14	87
+	+	11	60
+	+	12	0
+	+	14	52
+	+	15	0
+
+> ~/.bashrc
+	*	1561838719	0
+	"	9	0
+	^	114	20
+	.	114	19
+	+	21	0
+	+	105	0
+	+	50	0
+	+	49	3
+	+	52	0
+	+	105	0
+	+	29	0
+	+	105	0
+	+	84	0
+	+	78	6
+	+	84	0
+	+	79	0
+	+	84	0
+	+	79	13
+	+	79	38
+	+	84	0
+	+	79	18
+	+	105	0
+	+	29	39
+	+	29	0
+	+	21	9
+	+	6	0
+	+	22	0
+	+	6	18
+	+	21	0
+	+	6	23
+	+	7	46
+	+	78	44
+	+	78	0
+	+	38	0
+	+	39	0
+	+	40	23
+	+	39	36
+	+	40	22
+	+	105	0
+	+	29	52
+	+	29	0
+	+	29	56
+	+	29	62
+	+	84	22
+	+	8	0
+	+	21	0
+	+	8	18
+	+	21	0
+	+	8	31
+	+	2	0
+	+	29	0
+	+	9	0
+	+	29	0
+	+	105	0
+	+	15	0
+	+	105	0
+	+	89	0
+	+	103	0
+	+	105	0
+	+	84	0
+	+	93	0
+	+	104	15
+	+	83	0
+	+	82	29
+	+	40	0
+	+	27	46
+	+	26	8
+	+	17	48
+	+	17	31
+	+	17	34
+	+	83	0
+	+	25	0
+	+	20	0
+	+	18	58
+	+	18	35
+	+	18	46
+	+	20	0
+	+	18	48
+	+	20	37
+	+	19	0
+	+	20	0
+	+	19	24
+	+	20	0
+	+	19	60
+	+	22	0
+	+	26	0
+	+	105	0
+	+	95	0
+	+	105	0
+	+	91	0
+	+	80	0
+	+	105	0
+	+	19	0
+	+	13	0
+	+	105	0
+	+	60	64
+	+	60	33
+	+	60	19
+	+	60	22
+	+	107	0
+	+	108	27
+	+	111	0
+	+	110	3
+	+	114	19
+	n	61	24
+
+> ~/.vimrc
+	*	1561837395	0
+	"	1	0
+
+> ~/Desktop/gi/spgame/.git/COMMIT_EDITMSG
+	*	1561540204	0
+	"	4	0
+	.	4	0
+	+	4	0
+
+> ~/Desktop/gi/spgame/.git/rebase-merge/git-rebase-todo
+	*	1561540201	0
+	"	2	0
+	^	2	1
+	.	2	0
+	+	2	0
+	+	4	0
+	+	5	0
+	+	2	0
+
+> ~/Desktop/gi/spgame/package.json
+	*	1561536895	0
+	"	13	0
+
+> ~/Desktop/gi/spgame/package
+	*	1561536888	0
+	"	1	0
+
+> ~/Desktop/friendlychat-web/web-start/firebase.json
+	*	1560899661	0
+	"	4	0
+
+> ~/esp/.gitgnore
+	*	1558842577	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+
+> ~/.ssh/config
+	*	1558566683	0
+	"	7	0
+	^	7	21
+	.	7	20
+	+	127	0
+	+	128	18
+	+	129	13
+	+	142	18
+	+	141	0
+	+	142	22
+	+	142	0
+	+	142	22
+	+	142	4
+	+	142	22
+	+	142	0
+	+	88	0
+	+	88	23
+	+	88	24
+	+	88	14
+	+	88	0
+	+	87	6
+	+	88	0
+	+	142	0
+	+	142	5
+	+	142	25
+	+	142	27
+	+	142	0
+	+	142	13
+	+	142	11
+	+	142	100
+	+	142	18
+	+	142	93
+	+	90	0
+	+	142	0
+	+	142	4
+	+	142	24
+	+	142	0
+	+	142	4
+	+	142	0
+	+	142	15
+	+	142	13
+	+	142	4
+	+	142	69
+	+	142	30
+	+	142	76
+	+	142	4
+	+	142	71
+	+	142	31
+	+	142	4
+	+	142	31
+	+	142	0
+	+	142	31
+	+	142	4
+	+	142	0
+	+	142	30
+	+	142	17
+	+	142	34
+	+	142	72
+	+	142	30
+	+	142	4
+	+	142	0
+	+	142	72
+	+	142	4
+	+	142	0
+	+	142	30
+	+	142	0
+	+	142	4
+	+	142	0
+	+	43	0
+	+	24	0
+	+	86	0
+	+	24	11
+	+	24	10
+	+	25	17
+	+	27	13
+	+	28	0
+	+	142	0
+	+	42	0
+	+	25	20
+	+	26	0
+	+	27	9
+	+	26	28
+	+	27	9
+	+	24	0
+	+	25	0
+	+	24	0
+	+	28	0
+	+	16	0
+	+	6	11
+	+	7	21
+	+	15	0
+	+	8	21
+	+	9	1
+	+	8	27
+	+	15	1
+	+	15	0
+	+	10	1
+	+	28	8
+	+	28	11
+	+	28	35
+	+	28	0
+	+	11	0
+	+	13	31
+	+	7	20
+
+> ~/.vanilla-clipper/config.js
+	*	1558308477	0
+	"	15	18
+	.	14	8
+	+	14	8
+
+> ~/esp/esp-idf/components/freertos/port.c
+	*	1557756211	0
+	"	418	0
+
+> ~/esp/hall_sens_task/.git/COMMIT_EDITMSG
+	*	1557724660	0
+	"	8	0
+	.	8	0
+	+	8	0
+
+> ~/esp/hall_sens_task/.git/rebase-merge/git-rebase-todo
+	*	1557724653	0
+	"	4	0
+	^	4	1
+	.	4	0
+	+	4	0
+
+> ~/esp/hall_sens_task/.gitignore
+	*	1557723643	0
+	"	7	16
+	^	7	17
+	.	7	16
+	+	7	16
+
+> ~/.bash_profile
+	*	1557555686	0
+	"	1	0
+	.	17	0
+	+	17	28
+	+	14	0
+	+	17	28
+	+	17	0
+	+	15	0
+	+	17	0
+	+	16	0
+	+	17	0
+
+> ~/.profile
+	*	1557555672	0
+	"	1	0
+	.	1	0
+	+	1	47
+	+	1	6
+	+	1	66
+	+	1	0
+
+> /private/etc/crontab
+	*	1557555103	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+
+> ~/esp/esp-idf/requirements.txt
+	*	1557551480	0
+	"	1	0
+
+> ~/.p
+	*	1557551007	0
+	"	1	0
+
+> ~/esp/hello_world/Makefile
+	*	1556966102	0
+	"	1	0
+
+> ~/.pip/pip.log
+	*	1556965820	0
+	"	4025	0
+
+> ~/Desktop/raspberry/hello/src/hello.cpp
+	*	1556721501	0
+	"	1	0
+
+> ~/Desktop/AcaciaPlus-v2.3/tools/ltl2ba-1.1/Makefile
+	*	1556619697	0
+	"	22	0
+
+> ~/Desktop/raspberry/hello/Makefile
+	*	1556225103	0
+	"	1	0
+
+> ~/Desktop/raspberry/NERD_tree_1
+	*	1556224633	0
+	"	3	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/raspbian-sdk/prebuilt/bin/arm-linux-gnueabihf-clang
+	*	1556145388	0
+	"	12	15
+	^	12	16
+	.	12	15
+	+	12	15
+
+> ~/Desktop/raspbian-sdk/rsync.sh
+	*	1556059727	0
+	"	7	67
+	^	7	68
+	.	7	67
+	+	7	67
+
+> ~/Desktop/raspbian-sdk/binutils-2.30/Makefile
+	*	1556058453	0
+	"	25	0
+
+> ~/Desktop/cryptasks/.git/COMMIT_EDITMSG
+	*	1555442140	0
+	"	8	0
+	^	1	2
+	.	8	0
+	+	7	0
+	+	1	1
+	+	7	0
+	+	4	0
+	+	8	0
+
+> ~/Desktop/cryptasks/.git/rebase-merge/git-rebase-todo
+	*	1555442134	0
+	"	2	0
+	^	2	1
+	.	3	0
+	+	2	0
+	+	3	0
+	+	2	0
+	+	3	0
+
+> ~/Desktop/advcpp-work1/.git/rebase-merge/git-rebase-todo
+	*	1552426189	0
+	"	6	32
+	^	6	33
+	.	6	32
+	+	1	0
+	+	3	0
+	+	2	0
+	+	4	0
+	+	5	0
+	+	6	32
+
+> ~/Desktop/advcpp-work1/.git/COMMIT_EDITMSG
+	*	1552422717	0
+	"	11	0
+	.	11	0
+	+	2	0
+	+	4	0
+	+	11	0
+
+> ~/Desktop/cryptasks/lec4-cbc-node/.gitignore
+	*	1551347924	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
+
+> ~/Desktop/cryptasks/lec4-cbc/main.cpp
+	*	1551094765	0
+	"	7	11
+	.	7	11
+	+	7	11
+
+> ~/Desktop/hello.c
+	*	1550140998	0
+	"	5	22
+	^	5	23
+	.	5	22
+	+	1	16
+	+	4	0
+	+	6	0
+	+	6	2
+	+	5	22
+	+	6	0
+	+	1	16
+	+	5	22
+
+> ~/Desktop/ui-gigame/gigame-ui/.git/rebase-merge/git-rebase-todo
+	*	1550016988	0
+	"	3	0
+	^	3	1
+	.	3	0
+	+	4	0
+	+	3	0
+	+	6	0
+	+	7	0
+	+	5	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	3	0
+
+> ~/thorgate/class-person.py
+	*	1549624956	0
+	"	13	60
+	^	13	61
+	.	13	61
+	+	3	49
+	+	3	41
+	+	3	0
+	+	4	13
+	+	4	47
+	+	4	58
+	+	4	92
+	+	4	93
+	+	4	94
+	+	4	72
+	+	4	84
+	+	4	116
+	+	4	0
+	+	13	0
+	+	19	0
+	+	13	77
+	+	1	25
+	+	10	70
+	+	13	61
+
+> ~/thorgate/class2.py
+	*	1549624686	0
+	"	1	0
+	^	18	45
+	.	18	0
+	+	14	0
+	+	15	0
+	+	18	0
+
+> ~/thorgate/class1.py
+	*	1549624661	0
+	"	17	0
+	.	20	0
+	+	3	47
+	+	3	13
+	+	7	0
+	+	14	0
+	+	19	0
+	+	14	0
+	+	1	0
+	+	2	0
+	+	14	0
+	+	12	0
+	+	8	0
+	+	14	0
+	+	13	0
+	+	20	0
+	+	14	0
+	+	20	0
+
+> ~/Desktop/AdvC/ezoe/make/source01
+	*	1549225588	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/Desktop/AdvC/ezoe/make/Makefile
+	*	1549225537	0
+	"	5	43
+	^	5	44
+	.	5	43
+	+	5	43
+
+> ~/Desktop/AdvC/prac1/all.h
+	*	1549192993	0
+	"	65	30
+	^	65	31
+	.	65	30
+	+	18	32
+	+	49	31
+	+	65	30
+
+> ~/Desktop/AdvC/prac1/compile.txt
+	*	1549192726	0
+	"	2	0
+	^	2	0
+	.	1	58
+	+	1	58
+
+> ~/thorgate/vokaalid.py
+	*	1548869332	0
+	"	9	8
+	^	6	24
+	.	4	0
+	+	1	20
+	+	6	23
+	+	1	17
+	+	3	21
+	+	5	10
+	+	1	16
+	+	3	15
+	+	3	8
+	+	5	15
+	+	4	14
+	+	6	0
+	+	4	19
+	+	5	19
+	+	6	22
+	+	5	18
+	+	3	18
+	+	4	20
+	+	3	12
+	+	6	22
+	+	9	0
+	+	5	0
+	+	1	27
+	+	3	0
+	+	9	6
+	+	2	12
+	+	1	17
+	+	9	22
+	+	6	26
+	+	3	14
+	+	3	12
+	+	3	16
+	+	4	37
+	+	3	0
+	+	4	17
+	+	9	0
+	+	5	23
+	+	6	26
+	+	4	45
+	+	3	0
+	+	4	0
+	+	4	14
+	+	7	14
+	+	8	0
+	+	3	24
+	+	4	43
+	+	3	17
+	+	4	36
+	+	2	11
+	+	6	24
+	+	4	0
+
+> ~/thorgate/leng.py
+	*	1548866823	0
+	"	2	4
+	^	1	10
+	.	3	0
+	+	2	21
+	+	1	9
+	+	3	10
+	+	3	8
+	+	1	19
+	+	3	19
+	+	3	0
+	+	3	14
+	+	1	9
+	+	3	0
+
+> ~/thorgate/while.py
+	*	1548866412	0
+	"	5	23
+	^	5	24
+	.	5	23
+	+	1	0
+	+	2	31
+	+	8	61
+	+	9	42
+	+	10	44
+	+	14	0
+	+	13	28
+	+	5	23
+
+> ~/thorgate/for.py
+	*	1548866353	0
+	"	9	23
+	^	9	24
+	.	9	23
+	+	9	23
+
+> ~/thorgate/say.py
+	*	1548866256	0
+	"	2	17
+	^	13	18
+	.	13	17
+	+	13	17
+
+> ~/thorgate/a.py
+	*	1548866197	0
+	"	13	17
+	^	13	18
+	.	13	17
+	+	13	17
+
+> ~/thorgate/a.puy
+	*	1548866187	0
+	"	1	0
+
+> ~/Desktop/a.sh
+	*	1548313056	0
+	"	5	46
+	^	6	18
+	.	6	17
+	+	11	3
+	+	3	46
+	+	1	37
+	+	5	0
+	+	11	0
+	+	5	76
+	+	4	7
+	+	5	83
+	+	8	21
+	+	4	20
+	+	7	25
+	+	4	22
+	+	1	11
+	+	2	0
+	+	5	0
+	+	4	24
+	+	4	9
+	+	4	3
+	+	8	22
+	+	4	11
+	+	4	0
+	+	6	2
+	+	4	0
+	+	6	18
+	+	8	0
+	+	6	15
+	+	11	2
+	+	6	17
+
+> ~/Desktop/diary/README.md
+	*	1548053522	0
+	"	1	12
+	^	1	13
+	.	2	0
+	+	2	0
+
+> ~/Desktop/spgame/.git/rebase-merge/git-rebase-todo
+	*	1547462878	0
+	"	2	0
+	^	2	1
+	.	2	0
+	+	3	0
+	+	1	38
+	+	3	0
+	+	2	0
+	+	3	20
+	+	6	24
+	+	3	0
+	+	6	0
+	+	3	0
+	+	4	0
+	+	3	0
+	+	2	0
+	+	3	0
+	+	2	0
+
+> ~/Desktop/ui-gigame/gigame-ui/.git/MERGE_MSG
+	*	1546959359	0
+	"	1	0
+
+> ~/Desktop/ui-gigame/gigame-ui/.git/COMMIT_EDITMSG
+	*	1546959202	0
+	"	8	0
+	.	8	0
+	+	4	0
+	+	8	0
+
+> ~/Desktop/spgame/.git/COMMIT_EDITMSG
+	*	1546958857	0
+	"	8	0
+	.	8	0
+	+	1	0
+	+	1	11
+	+	5	0
+	+	2	22
+	+	1	23
+	+	2	0
+	+	5	0
+	+	2	4
+	+	5	0
+	+	1	11
+	+	2	0
+	+	4	0
+	+	8	0
+
+> ~/Desktop/spgame/.gitignore
+	*	1546861347	0
+	"	16	3
+	^	16	4
+	.	16	3
+	+	16	3
+
+> ~/Desktop/ui-gigame/gigame-ui/src/app/interfaces/message/spell/index.ts
+	*	1546621319	0
+	"	16	13
+
+> ~/Desktop/spgame/README.md
+	*	1545062969	0
+	"	4	0
+	^	3	25
+	.	3	24
+	+	6	0
+	+	1	0
+	+	22	1
+	+	1	66
+	+	5	13
+	+	10	0
+	+	9	0
+	+	8	20
+	+	9	11
+	+	12	14
+	+	17	24
+	+	18	0
+	+	17	34
+	+	20	0
+	+	17	0
+	+	3	24
+
+> ~/Desktop/geolocation/README.md
+	*	1545062487	0
+	"	9	6
+	^	9	7
+	.	9	6
+	+	1	36
+	+	3	20
+	+	7	54
+	+	1	1
+	+	3	0
+	+	5	0
+	+	7	1
+	+	9	6
+
+> ~/Desktop/sequelize-typescript/.git/COMMIT_EDITMSG
+	*	1544692870	0
+	"	1	34
+	^	1	35
+	.	1	34
+	+	1	34
+
+> ~/Desktop/spgame/NERD_tree_1
+	*	1543600199	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/bucklescript/my-new-project/src/a.ml
+	*	1541743832	0
+	"	5	8
+	^	5	9
+	.	5	8
+	+	7	0
+	+	5	8
+
+> ~/Desktop/bucklescript/my-new-project/NERD_tree_1
+	*	1541743804	0
+	"	9	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/bucklescript/my-new-project/src/a.bs.js
+	*	1541743793	0
+	"	4	0
+
+> ~/Desktop/bucklescript/NERD_tree_1
+	*	1541743749	0
+	"	15	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/bucklescript/my-new-project/src/demo.bs.js
+	*	1541743683	0
+	"	7	0
+	^	7	2
+	.	7	0
+	+	7	0
+
+> ~/Desktop/bucklescript/my-new-project/src/demo.ml
+	*	1541743683	0
+	"	5	0
+	^	4	17
+	.	5	0
+	+	8	0
+	+	7	0
+	+	7	2
+	+	7	0
+	+	5	7
+	+	7	0
+	+	1	0
+	+	3	0
+	+	2	2
+	+	1	2
+	+	2	2
+	+	5	13
+	+	4	16
+	+	5	0
+
+> ~/Desktop/bucklescript/a.ml
+	*	1541743682	0
+	"	4	22
+	^	4	23
+	.	4	22
+	+	3	9
+	+	4	22
+
+> ~/Desktop/bucklescript/my-new-project/package.json
+	*	1541743661	0
+	"	5	0
+
+> ~/Desktop/bucklescript/NERD_tree_2
+	*	1541743112	0
+	"	6	0
+	.	1	0
+	+	1	0
+
+> ~/ocamlinit.ml
+	*	1541742849	0
+	"	2	0
+	^	2	0
+	.	1	10
+	+	1	10
+
+> ~/Library/Application Support/Bitcoin/bitcoin.conf
+	*	1541482130	0
+	"	12	0
+	^	17	1
+	.	12	0
+	+	1	11
+	+	2	15
+	+	11	0
+	+	12	0
+	+	16	8
+	+	11	0
+	+	17	8
+	+	12	0
+	+	27	0
+	+	24	0
+	+	5	0
+	+	19	6
+	+	2	0
+	+	24	0
+	+	5	0
+	+	20	0
+	+	19	16
+	+	5	0
+	+	17	0
+	+	12	0
+
+> ~/Desktop/hello-rust/src/main.rs
+	*	1540981029	0
+	"	2	0
+
+> ~/Desktop/hello-rust/NERD_tree_1
+	*	1540981022	0
+	"	6	0
+	.	1	0
+	+	1	0
+
+> ~/Desktop/hello-rust/Cargo.toml
+	*	1540981020	0
+	"	6	0
+
+> ~/Desktop/fp2018/min-caml/parser.ml
+	*	1540440663	0
+	"	412	0
+
+> /private/etc/man.conf
+	*	1540196097	0
+	"	106	6
+	^	107	9
+	.	107	8
+	+	96	0
+	+	95	0
+	+	106	23
+	+	106	0
+	+	107	0
+	+	43	0
+	+	95	6
+	+	107	7
+	+	106	5
+	+	43	0
+	+	95	0
+	+	106	0
+	+	107	0
+	+	95	7
+	+	106	6
+	+	107	8
+
+> ~/Desktop/os/oldfile
+	*	1539825724	0
+	"	6	0
+	.	6	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+
+> ~/Desktop/soft-eng/RecPoint.st
+	*	1539761559	0
+	"	1	0
+
+> ~/Desktop/c.js
+	*	1539683566	0
+	"	7	3
+	^	7	4
+	.	7	3
+	+	12	2
+	+	9	14
+	+	11	42
+	+	11	38
+	+	7	3
+
+> ~/Desktop/b.js
+	*	1539683363	0
+	"	5	24
+	^	5	25
+	.	5	24
+	+	5	24
+
+> ~/Desktop/a.js
+	*	1539683344	0
+	"	5	2
+	^	6	3
+	.	6	2
+	+	6	2
+
+> ~/Desktop/fp-ocaml/min-caml/.ocamlinit
+	*	1539581602	0
+	"	1	0
+
+> ~/Desktop/fp-ocaml/min-caml/Makefile
+	*	1539581178	0
+	"	16	28
+
+> ~/Desktop/fp2018/min-caml/NERD_tree_1
+	*	1539579622	0
+	"	41	2
+	.	1	0
+	+	1	0
+
+> ~/Desktop/fp2018/min-caml/lexer.mll
+	*	1539579620	0
+	"	12	0
+
+> ~/Desktop/fp2018/min-caml/main.ml
+	*	1539579620	0
+	"	45	4
+
+> ~/Desktop/fp2018/min-caml/typing.ml
+	*	1539579620	0
+	"	163	2
+
+> ~/Desktop/fp2018/min-caml/parser.mly
+	*	1539579620	0
+	"	149	0
+	.	102	0
+	+	102	0
+
+> ~/Desktop/fp2018/min-caml/parser.mli
+	*	1539579618	0
+	"	1	0
+
+> ~/Desktop/main.cpp
+	*	1539444893	0
+	"	1541	9
+
+> ~/Desktop/xv6-public/spinlock.c
+	*	1539244110	0
+	"	32	2
+	^	34	4
+	.	32	2
+	+	34	0
+	+	32	3
+	+	33	3
+	+	34	19
+	+	36	2
+	+	36	15
+	+	37	0
+	+	36	2
+	+	34	24
+	+	35	0
+	+	55	0
+	+	55	6
+	+	55	0
+	+	35	0
+	+	32	2
+
+> ~/Desktop/xv6-public/proc.c
+	*	1539243024	0
+	"	110	2
+
+> ~/Desktop/fp2018/src/fp04a/tak.cmi
+	*	1539240325	0
+	"	2	0
+
+> ~/Desktop/fp-ocaml/tak
+	*	1539238357	0
+	"	8	0
+
+> ~/Desktop/fp-ocaml/tak.ml
+	*	1539238159	0
+	"	1	0
+	^	12	36
+	.	1	0
+	+	1	0
+	+	1	31
+	+	1	54
+	+	1	68
+	+	1	95
+	+	1	52
+	+	1	80
+	+	1	0
+	+	12	0
+	+	1	0
+	+	3	0
+	+	1	0
